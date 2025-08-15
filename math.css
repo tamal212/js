@@ -1,0 +1,30 @@
+#btn{background:#58B19F; color: wheat; width: 40px; border: 0; border-radius: 5px;}
+#btn:hover{background-color: aqua; color:#1B9CFC; cursor: pointer;}
+/* div{
+  background: lightcoral; 
+ height:530px; width: auto;
+ position: relative;
+ padding: 10px 5px;
+} */
+ ul li {display: inline-block;  text-align: center;  
+ } 
+li a{
+text-decoration: none; height: 20px; width: 55px; border-radius: 5px;
+color: #fff; background-color:#16a085 ; 
+}
+a:hover{background: #2ecc71;}
+ img{
+  float:none; margin:0 auto 10px; 
+   display: block; height: 80px;
+   } 
+   #date{padding: 10px 5px;
+    text-align: left;
+    background: #fa983a;
+    height: 200px; width: auto; background-image: url('https://plus.unsplash.com/premium_photo-1754752265556-77115945cde2?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    opacity: 2.5;
+    color: #e55039;
+    z-index: 1;
+    
+   }
+   p{z-index: 2;}
+/* p{ position: absolute; padding-left: 5px; text-align: justify;} */
