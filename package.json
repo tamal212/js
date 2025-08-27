@@ -1,0 +1,15 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "Movie web",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "Tailwind CSS"
+  ],
+  "author": "tamal roy",
+  "license": "MIT"
+}

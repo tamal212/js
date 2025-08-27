@@ -91,7 +91,7 @@ function cal(num) {
 cal(num);
 console.log(cal(num));*/
 
-let give = prompt('number please');
+//let give = prompt('number please');
 
 /*function calculation(input) {
   return input * input;
