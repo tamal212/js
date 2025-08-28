@@ -11,5 +11,8 @@
     "Tailwind CSS"
   ],
   "author": "tamal roy",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^4.1.12"
+  }
 }
